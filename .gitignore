@@ -1,0 +1,7 @@
+.Rproj.user
+.RData
+.Rhistory
+*.Rout
+data/shp/_unused/*
+packrat/lib*/
+packrat/src/
